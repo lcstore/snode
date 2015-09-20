@@ -18,6 +18,7 @@
   "directories" : { "lib" : "./lib" },
   "dependencies" : {
     "request-promise" : "~0.4.3",
+    "request" : "~2.62.0",
     "bluebird": "^2.3",
     "cheerio" : "~0.19.0",
     "jsdom": "^6.5.1"
